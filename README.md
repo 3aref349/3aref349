@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Mohamed Aref 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Nodejs, typeorm 
